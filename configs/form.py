@@ -1,5 +1,5 @@
 form = {
-    'base_url': 'https://docs.google.com/forms/d/e/1FAIpQLScqYuCU0jJc9IqglXFHkwjwsweQ5V4LP4Y-jYfJBF4MT2fsTg/formResponse',
+    'base_url': '',
     'questions': [
         {
             'id': 'entry.852123040',
