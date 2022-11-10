@@ -1,0 +1,290 @@
+{
+    "base_url": "https://docs.google.com/forms/d/e/1FAIpQLScGpoQ6l9no9_Fn56vP8-MTs1j4qy5PBLcGAmC2ZgxS8sxXsQ/formResponse",
+    "questions": [
+        {
+            "id": "entry.1509173346",
+            "answers": {
+                "Dưới 30 tuổi": 0.55,
+                "31 - 40 tuổi": 0.25,
+                "41 - 50 tuổi": 0.15,
+                "51 tuổi trở lên": 0.05
+            }
+        },
+        {
+            "id": "entry.1660216661",
+            "answers": {
+                "Nữ": 0.68,
+                "Nam": 0.32
+            }
+        },
+        {
+            "id": "entry.162465114",
+            "answers": {
+                "Bạn bè giới thiệu": 0.45,
+                "Mạng xã hội": 0.15,
+                "Google": 0.2,
+                "Shopee": 0.15,
+                "Khác": 0.05
+            }
+        },
+        {
+            "id": "entry.1709125971",
+            "answers": {
+                "Chưa mua": 0.02,
+                "1 - 2 sản phẩm": 0.44,
+                "3 - 4 sản phẩm": 0.36,
+                "Lớn hơn 4 sản phẩm": 0.18
+            }
+        },
+        {
+            "id": "entry.1239243896",
+            "multichoice": True,
+            "answers": {
+                "Trang trí nhà cửa": 0.32,
+                "Làm quà tặng": 0.36,
+                "Mua cho doanh nghiệp để trang trí văn phòng": 0.21,
+                "Mua cho doanh nghiệp để kinh doanh": 0.11
+            }
+        },
+        {
+            "id": "entry.1633187372",
+            "multichoice": True,
+            "answers": {
+                "Tranh in Canvas": 0.46,
+                "Tranh lụa gắn hoa": 0.35,
+                "Tranh vẽ cao cấp": 0.19
+            }
+        },
+        {
+            # A1
+            "id": "entry.1421374206",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.01,
+                "Không đồng ý": 0.02,
+                "Trung lập": 0.23,
+                "Đồng ý": 0.53,
+                "Hoàn toàn đồng ý": 0.21
+            }
+        },
+        {
+            # A2
+            "id": "entry.2034719033",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.02,
+                "Không đồng ý": 0.01,
+                "Trung lập": 0.28,
+                "Đồng ý": 0.45,
+                "Hoàn toàn đồng ý": 0.24
+            }
+        },
+        {
+            # A3
+            "id": "entry.530443663",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.01,
+                "Không đồng ý": 0.03,
+                "Trung lập": 0.35,
+                "Đồng ý": 0.41,
+                "Hoàn toàn đồng ý": 0.2
+            }
+        },
+        {
+            # A4
+            "id": "entry.1475861943",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.01,
+                "Không đồng ý": 0.01,
+                "Trung lập": 0.19,
+                "Đồng ý": 0.38,
+                "Hoàn toàn đồng ý": 0.41
+            }
+        },
+        {
+            # A5
+            "id": "entry.1586093985",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.02,
+                "Không đồng ý": 0.04,
+                "Trung lập": 0.42,
+                "Đồng ý": 0.37,
+                "Hoàn toàn đồng ý": 0.15
+            }
+        },
+        {
+            # B1
+            "id": "entry.352854374",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.03,
+                "Không đồng ý": 0.02,
+                "Trung lập": 0.32,
+                "Đồng ý": 0.45,
+                "Hoàn toàn đồng ý": 0.18
+            }
+        },
+        {
+            # B2
+            "id": "entry.1198813829",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.02,
+                "Không đồng ý": 0.02,
+                "Trung lập": 0.17,
+                "Đồng ý": 0.49,
+                "Hoàn toàn đồng ý": 0.3
+            }
+        },
+        {
+            # B3
+            "id": "entry.2064767274",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.01,
+                "Không đồng ý": 0.04,
+                "Trung lập": 0.36,
+                "Đồng ý": 0.34,
+                "Hoàn toàn đồng ý": 0.35
+            }
+        },
+        {
+            # B4
+            "id": "entry.75915120",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.05,
+                "Không đồng ý": 0.02,
+                "Trung lập": 0.25,
+                "Đồng ý": 0.47,
+                "Hoàn toàn đồng ý": 0.21
+            }
+        },
+        {
+            # C1
+            "id": "entry.611114930",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.04,
+                "Không đồng ý": 0.03,
+                "Trung lập": 0.42,
+                "Đồng ý": 0.32,
+                "Hoàn toàn đồng ý": 0.19
+            }
+        },
+        {
+            # C2
+            "id": "entry.1409726586",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.01,
+                "Không đồng ý": 0.02,
+                "Trung lập": 0.16,
+                "Đồng ý": 0.35,
+                "Hoàn toàn đồng ý": 0.46
+            }
+        },
+        {
+            # C3
+            "id": "entry.1778077693",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.02,
+                "Không đồng ý": 0.03,
+                "Trung lập": 0.31,
+                "Đồng ý": 0.37,
+                "Hoàn toàn đồng ý": 0.27
+            }
+        },
+        {
+            # C4
+            "id": "entry.1513616490",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.05,
+                "Không đồng ý": 0.04,
+                "Trung lập": 0.41,
+                "Đồng ý": 0.36,
+                "Hoàn toàn đồng ý": 0.14
+            }
+        },
+        {
+            # D1
+            "id": "entry.36449996",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.11,
+                "Không đồng ý": 0.39,
+                "Trung lập": 0.21,
+                "Đồng ý": 0.15,
+                "Hoàn toàn đồng ý": 0.14
+            }
+        },
+        {
+            # D2
+            "id": "entry.2015264973",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.21,
+                "Không đồng ý": 0.28,
+                "Trung lập": 0.31,
+                "Đồng ý": 0.11,
+                "Hoàn toàn đồng ý": 0.09
+            }
+        },
+        {
+            # D3
+            "id": "entry.1278601458",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.35,
+                "Không đồng ý": 0.21,
+                "Trung lập": 0.24,
+                "Đồng ý": 0.15,
+                "Hoàn toàn đồng ý": 0.05
+            }
+        },
+        {
+            # D4
+            "id": "entry.330736793",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.23,
+                "Không đồng ý": 0.31,
+                "Trung lập": 0.21,
+                "Đồng ý": 0.17,
+                "Hoàn toàn đồng ý": 0.08
+            }
+        },
+        {
+            # D5
+            "id": "entry.1401369040",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.19,
+                "Không đồng ý": 0.21,
+                "Trung lập": 0.24,
+                "Đồng ý": 0.19,
+                "Hoàn toàn đồng ý": 0.17
+            }
+        },
+        {
+            # D6
+            "id": "entry.1167686070",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.15,
+                "Không đồng ý": 0.28,
+                "Trung lập": 0.38,
+                "Đồng ý": 0.13,
+                "Hoàn toàn đồng ý": 0.06
+            }
+        },
+        {
+            # D7
+            "id": "entry.594330524",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.28,
+                "Không đồng ý": 0.24,
+                "Trung lập": 0.16,
+                "Đồng ý": 0.22,
+                "Hoàn toàn đồng ý": 0.1
+            }
+        },
+        {
+            # D8
+            "id": "entry.737018949",
+            "answers": {
+                "Hoàn toàn không đồng ý": 0.19,
+                "Không đồng ý": 0.23,
+                "Trung lập": 0.36,
+                "Đồng ý": 0.11,
+                "Hoàn toàn đồng ý": 0.11
+            }
+        }
+    ]
+}
